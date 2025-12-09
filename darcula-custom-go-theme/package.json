@@ -1,0 +1,66 @@
+{
+  "name": "darcula-custom-go-theme",
+  "displayName": "Darcula Custom (Go Enhanced)",
+  "description": "Custom Darcula theme with enhanced Go syntax highlighting",
+  "version": "1.0.0",
+  "publisher": "custom",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darcula Custom (Go Enhanced)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula-custom-go.json"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
